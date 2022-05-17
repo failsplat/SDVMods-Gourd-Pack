@@ -1,4 +1,4 @@
-# Gourd Pack (Mod for Stardew Valley)
+# Gourd and Melon Pack (Mod for Stardew Valley)
  A content pack mod for Stardew Valley, containing a variety gourds and melons.
 ## Required Mods
 - Json Assets

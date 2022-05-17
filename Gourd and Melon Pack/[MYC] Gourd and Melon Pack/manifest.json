@@ -1,0 +1,16 @@
+﻿{
+  "Name": "[MYC] Failsplat's Gourd and Melon Pack",
+  "Author": "Failsplat",
+  "Version": "0.1.0",
+  "Description": "Adds squash blossoms and other side products to various gourd crops.",
+  "UniqueID": "Failsplat.GourdMYC",
+  "ContentPackFor": {
+    "UniqueID": "Cherry.MultiYieldCrops",
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "Failsplat.GourdJA",
+      "IsRequired": true,
+    },
+  ],
+}

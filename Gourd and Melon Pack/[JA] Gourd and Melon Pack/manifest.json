@@ -1,0 +1,13 @@
+{
+    "Name": "[JA] Failsplat's Gourd and Melon Pack",
+    "Author": "Failsplat",
+    "Version": "0.1.0",
+    "Description": "Adds various melon, gourd and squash crops.",
+    "UniqueID": "Failsplat.GourdJA",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    "Dependencies": [
+    ],
+}
