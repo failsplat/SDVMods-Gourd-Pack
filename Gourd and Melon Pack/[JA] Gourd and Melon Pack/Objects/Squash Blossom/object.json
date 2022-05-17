@@ -1,0 +1,53 @@
+{
+  "Name": "Squash Blossom",
+  "Description": "An edible flower bud eaten like a vegetable. A few can be harvested without reducing the yield of the squash plant.",
+  "Category": "Vegetable",
+  "Edibility": 15,
+  "Price": 100,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_yellow",
+  ],
+  "GiftTastes":
+  {
+    "Love": [],
+    "Like": [],
+    "Neutral": [],
+    "Dislike": [],
+    "Hate": [],
+  },
+  "NameLocalization":
+  {
+    "default":"Squash Blossom",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"An edible flower bud eaten like a vegetable. A few can be harvested without reducing the yield of the squash plant.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}
