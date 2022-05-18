@@ -1,0 +1,53 @@
+{
+  "Name": "Calabash",
+  "Description": "A hollow, dried calabash, used as a natural bottle. Said to have magical effects on liquids stored inside it.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 200,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_yellow",
+  ],
+  "GiftTastes":
+  {
+    "Love": [],
+    "Like": [],
+    "Neutral": [],
+    "Dislike": [],
+    "Hate": [],
+  },
+  "NameLocalization":
+  {
+    "default":"Calabash",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"A hollow, dried calabash, used as a natural bottle. Said to have magical effects on liquids stored inside it.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}

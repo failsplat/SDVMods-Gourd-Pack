@@ -1,0 +1,56 @@
+{
+  "Name": "Kabocha Squash",
+  "Description": "Dark-green winter squash. Similar to a pumpkin. Solid and robust.",
+  "Category": "Vegetable",
+  "Edibility": 15,
+  "Price": 200,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_dark_green",
+  ],
+  "GiftTastes":
+  {
+      "Love": ["Abigail", "Krobus", "Willy"],
+      "Dislike": ["Sam", "Haley", "Jas", "Vincent"],
+  },
+  "NameLocalization":
+  {
+    "default":"Kabocha Squash",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"Dark-green winter squash. Similar to a pumpkin. Solid and robust.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}
