@@ -1,0 +1,54 @@
+{
+  "Name": "Winter Melon",
+  "Description": "A massive melon, with frosted waxy skin. More like a vegetable than a fruit, but develops a rich caramel when stewed in sugar.",
+  "Category": "Vegetable",
+  "Edibility": 15,
+  "Price": 250,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_white",
+  ],
+  "GiftTastes":
+  {
+  },
+  "NameLocalization":
+  {
+    "default":"Winter Melon",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"A massive melon, with frosted waxy skin. More like a vegetable than a fruit, but develops a rich caramel when stewed in sugar.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}
