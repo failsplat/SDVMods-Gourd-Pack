@@ -14,11 +14,7 @@
   ],
   "GiftTastes":
   {
-    "Love": [],
-    "Like": [],
-    "Neutral": [],
-    "Dislike": [],
-    "Hate": [],
+    "Love": [ "Caroline", "Jodi" ],
   },
   "NameLocalization":
   {
