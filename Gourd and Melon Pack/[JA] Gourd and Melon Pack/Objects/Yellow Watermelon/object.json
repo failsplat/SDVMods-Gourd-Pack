@@ -1,0 +1,59 @@
+{
+  "Name": "Yellow Watermelon",
+  "Description": "A smaller variety of watermelon, with bright yellow flesh.",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 220,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_yellow",
+  ],
+  "GiftTastes":
+  {
+    "Love": [],
+    "Like": [],
+    "Neutral": [],
+    "Dislike": [],
+    "Hate": [],
+  },
+  "NameLocalization":
+  {
+    "default":"Yellow Watermelon",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"A smaller variety of watermelon, with bright yellow flesh.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}
