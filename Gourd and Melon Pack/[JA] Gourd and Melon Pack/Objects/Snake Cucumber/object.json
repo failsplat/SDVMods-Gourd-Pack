@@ -1,0 +1,49 @@
+{
+  "Name": "Snake Cucumber",
+  "Description": "The only bite to this veggie is its nice crisp texture. Pleasantly mild flavor, and excellent for startling cats.",
+  "Category": "Vegetable",
+  "Edibility": 15,
+  "Price": 120,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_green",
+  ],
+  "GiftTastes":
+  {
+    "Love": [ "Caroline", "Jodi" ],
+  },
+  "NameLocalization":
+  {
+    "default":"Snake Cucumber",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"The only bite to this veggie is its nice crisp texture. Pleasantly mild flavor, and excellent for startling cats.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}

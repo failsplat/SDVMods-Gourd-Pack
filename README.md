@@ -27,6 +27,7 @@
 - Squash Blossoms (Harvested as a side-product of other gourd items)
 - Silk Gourd/Loofah
 - Hami Melon
+- Serpent Gourd
 ## Install
 1. [Install the latest version of SMAPI](https://smapi.io/).
 2. Download this mod folder.
