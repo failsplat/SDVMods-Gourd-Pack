@@ -1,0 +1,57 @@
+{
+  "Name": "Mirza Melon",
+  "Description": "A princely melon that enjoys the sun and heat.",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 200,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_orange",
+  ],
+  "GiftTastes":
+  {
+      "Like": ["Demetrius", "Dwarf", "Elliott", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Penny", "Robin", "Sandy", "Shane"],
+      "Neutral": ["Alex", "Caroline", "Clint", "Emily", "Evelyn", "George", "Gus", "Krobus", "Lewis", "Marnie", "Maru", "Pierre", "Sam", "Sebastian", "Willy", "Wizard"],
+      "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+  },
+  "NameLocalization":
+  {
+    "default":"Mirza Melon",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"A princely melon that enjoys the sun and heat.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}
