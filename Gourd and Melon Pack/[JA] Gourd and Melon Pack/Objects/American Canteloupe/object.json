@@ -1,16 +1,22 @@
 {
-  "Name": "Squash Blossom",
-  "Description": "An edible flower bud eaten like a vegetable. A few can be harvested without reducing the yield of the squash plant.",
-  "Category": "Vegetable",
+  "Name": "American Canteloupe",
+  "Description": "This canteloupe has net-like web of ridge on its skin, making it resemble stone or parched earth. Inside its rugged-looking rind is sweet, juicy orange flesh.",
+  "Category": "Fruit",
   "Edibility": 15,
-  "Price": 120,
+  "Price": 180,
   "IsColored": false,
   "EdibleIsDrink": false,
-  "EdibleBuffs": null,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
   "Recipe": null,
   "ContextTags":
   [
-    "color_yellow",
+    "color_orange",
   ],
   "GiftTastes":
   {
@@ -22,7 +28,7 @@
   },
   "NameLocalization":
   {
-    "default":"Squash Blossom",
+    "default":"American Canteloupe",
     //"es": "",
     //"ko": "",
     //"de": "",
@@ -37,7 +43,7 @@
   },
   "DescriptionLocalization":
   {
-    "default":"An edible flower bud eaten like a vegetable. A few can be harvested without reducing the yield of the squash plant.",
+    "default":"This canteloupe has net-like web of ridge on its skin, making it resemble stone or parched earth. Inside its rugged-looking rind is sweet, juicy orange flesh.",
     //"es": "",
     //"ko": "",
     //"de": "",

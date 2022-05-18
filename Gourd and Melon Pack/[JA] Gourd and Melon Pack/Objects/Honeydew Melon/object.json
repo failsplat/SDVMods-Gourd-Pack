@@ -1,16 +1,22 @@
 {
-  "Name": "Squash Blossom",
-  "Description": "An edible flower bud eaten like a vegetable. A few can be harvested without reducing the yield of the squash plant.",
-  "Category": "Vegetable",
+  "Name": "Honeydew Melon",
+  "Description": "This melon has smooth pale-green skin and flesh, and a very light flavor.",
+  "Category": "Fruit",
   "Edibility": 15,
-  "Price": 120,
+  "Price": 150,
   "IsColored": false,
   "EdibleIsDrink": false,
-  "EdibleBuffs": null,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
   "Recipe": null,
   "ContextTags":
   [
-    "color_yellow",
+    "color_green",
   ],
   "GiftTastes":
   {
@@ -22,7 +28,7 @@
   },
   "NameLocalization":
   {
-    "default":"Squash Blossom",
+    "default":"Honeydew Melon",
     //"es": "",
     //"ko": "",
     //"de": "",
@@ -37,7 +43,7 @@
   },
   "DescriptionLocalization":
   {
-    "default":"An edible flower bud eaten like a vegetable. A few can be harvested without reducing the yield of the squash plant.",
+    "default":"This melon has smooth pale-green skin and flesh, and a very light flavor.",
     //"es": "",
     //"ko": "",
     //"de": "",

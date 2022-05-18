@@ -6,8 +6,9 @@
 ### Optional Mods
 ## Contents
 ### New Items
+
 ### Future/Planned
-- Charentais Canteloupe
+- American Canteloupe
 - Honeydew
 - Argos Melon
 - Mirza Melon

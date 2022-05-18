@@ -1,0 +1,59 @@
+{
+  "Name": "White Bitter Melon",
+  "Description": "An unusual variety of bitter melon, with translucent white flesh.",
+  "Category": "Vegetable",
+  "Edibility": 15,
+  "Price": 180,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_white",
+  ],
+  "GiftTastes":
+  {
+    "Love": ["Harvey"],
+    "Like": ["Gus", "Penny", "Dwarf", "Krobus"],
+    "Neutral": [],
+    "Dislike": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius",  "Elliott", "Emily", "Evelyn", "Haley", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard", "Pam", "Shane"],
+    "Hate": ["Vincent", "Jas"],
+  },
+  "NameLocalization":
+  {
+    "default":"White Bitter Melon",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default": "An unusual variety of bitter melon, with translucent white fles",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}

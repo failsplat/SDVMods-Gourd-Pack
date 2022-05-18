@@ -1,16 +1,16 @@
 {
-  "Name": "Squash Blossom",
-  "Description": "An edible flower bud eaten like a vegetable. A few can be harvested without reducing the yield of the squash plant.",
+  "Name": "Silk Gourd",
+  "Description": "A loofah gourd, except young and still edible. The fibers have not toughened yet, and have a satisfying crunch.",
   "Category": "Vegetable",
   "Edibility": 15,
-  "Price": 120,
+  "Price": 80,
   "IsColored": false,
   "EdibleIsDrink": false,
   "EdibleBuffs": null,
   "Recipe": null,
   "ContextTags":
   [
-    "color_yellow",
+    "color_green",
   ],
   "GiftTastes":
   {
@@ -22,7 +22,7 @@
   },
   "NameLocalization":
   {
-    "default":"Squash Blossom",
+    "default":"Silk Gourd",
     //"es": "",
     //"ko": "",
     //"de": "",
@@ -37,7 +37,7 @@
   },
   "DescriptionLocalization":
   {
-    "default":"An edible flower bud eaten like a vegetable. A few can be harvested without reducing the yield of the squash plant.",
+    "default":"A loofah, except young and still edible. The fibers have not toughened yet, and have a satisfying crunch.",
     //"es": "",
     //"ko": "",
     //"de": "",

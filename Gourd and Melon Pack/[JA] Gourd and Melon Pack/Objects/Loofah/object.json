@@ -1,16 +1,15 @@
 {
-  "Name": "Squash Blossom",
-  "Description": "An edible flower bud eaten like a vegetable. A few can be harvested without reducing the yield of the squash plant.",
-  "Category": "Vegetable",
-  "Edibility": 15,
-  "Price": 120,
+  "Name": "Loofah",
+  "Description": "The dried-out fibers from a loofah gourd, used like a bath sponge. Exfoliating!",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 100,
   "IsColored": false,
   "EdibleIsDrink": false,
   "EdibleBuffs": null,
   "Recipe": null,
   "ContextTags":
   [
-    "color_yellow",
   ],
   "GiftTastes":
   {
@@ -22,7 +21,7 @@
   },
   "NameLocalization":
   {
-    "default":"Squash Blossom",
+    "default":"Loofah",
     //"es": "",
     //"ko": "",
     //"de": "",
@@ -37,7 +36,7 @@
   },
   "DescriptionLocalization":
   {
-    "default":"An edible flower bud eaten like a vegetable. A few can be harvested without reducing the yield of the squash plant.",
+    "default":"The dried-out fibers from a loofah gourd, used like a bath sponge. Exfoliating!",
     //"es": "",
     //"ko": "",
     //"de": "",
