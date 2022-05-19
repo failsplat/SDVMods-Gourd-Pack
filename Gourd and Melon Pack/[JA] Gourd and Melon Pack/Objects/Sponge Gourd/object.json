@@ -1,5 +1,5 @@
 {
-  "Name": "Silk Gourd",
+  "Name": "Sponge Gourd",
   "Description": "A loofah gourd, except young and still edible. The fibers have not toughened yet, and have a satisfying crunch.",
   "Category": "Vegetable",
   "Edibility": 15,
@@ -18,7 +18,7 @@
   },
   "NameLocalization":
   {
-    "default":"Silk Gourd",
+    "default":"Sponge Gourd",
     //"es": "",
     //"ko": "",
     //"de": "",
