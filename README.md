@@ -27,13 +27,17 @@
 - Silk Gourd/Loofah
 - Pattypan Squash
 - Hami Melon
-- Apple Gourd
-- Serpent Gourd
+- Apple Gourd/Tinda
 - Ivy Gourd
 - Kantola
 - Coyote Gourd
 - Gac Fruit
 - Monkfruit
+- Tromboncino
+- Caserta Zucchini
+- Yellow Squash
+- Fig-Leaf Melon
+- Serpent Gourd
 ## Install
 1. [Install the latest version of SMAPI](https://smapi.io/).
 2. Download this mod folder.
