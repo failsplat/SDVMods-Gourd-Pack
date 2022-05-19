@@ -23,11 +23,17 @@
 - Acorn Squash
 - Turban Squash
 - Buttercup Squash
-- Pattypan Squash
 - Squash Blossoms (Harvested as a side-product of other gourd items)
-- Sponge Gourd/Loofah
+- Silk Gourd/Loofah
+- Pattypan Squash
 - Hami Melon
+- Apple Gourd
 - Serpent Gourd
+- Ivy Gourd
+- Kantola
+- Coyote Gourd
+- Gac Fruit
+- Monkfruit
 ## Install
 1. [Install the latest version of SMAPI](https://smapi.io/).
 2. Download this mod folder.
