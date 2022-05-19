@@ -25,7 +25,7 @@
 - Buttercup Squash
 - Pattypan Squash
 - Squash Blossoms (Harvested as a side-product of other gourd items)
-- Silk Gourd/Loofah
+- Sponge Gourd/Loofah
 - Hami Melon
 - Serpent Gourd
 ## Install
