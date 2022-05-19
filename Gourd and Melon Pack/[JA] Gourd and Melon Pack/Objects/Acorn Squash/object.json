@@ -1,0 +1,56 @@
+{
+  "Name": "Acorn Squash",
+  "Description": "Appropriately enough, this squash has dense, slightly nutty flesh. The shape makes it excellent for fillings.",
+  "Category": "Vegetable",
+  "Edibility": 15,
+  "Price": 200,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_dark_green",
+  ],
+  "GiftTastes":
+  {
+      "Love": ["Abigail", "Krobus", "Willy"],
+      "Dislike": ["Sam", "Haley", "Jas", "Vincent"],
+  },
+  "NameLocalization":
+  {
+    "default":"Acorn Squash",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"Appropriately enough, this squash has dense, slightly nutty flesh. The shape makes it excellent for fillings.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}

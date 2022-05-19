@@ -19,7 +19,6 @@
 - Calabash
 - Kajari Melon
 - Kabocha Squash
-- Arikara Squash
 - Spaghetti Squash
 - Acorn Squash
 - Turban Squash

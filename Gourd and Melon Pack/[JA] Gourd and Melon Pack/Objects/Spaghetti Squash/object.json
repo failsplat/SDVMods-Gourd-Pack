@@ -1,0 +1,56 @@
+{
+  "Name": "Spaghetti Squash",
+  "Description": "So named because the cooked pulp separates into strands.",
+  "Category": "Vegetable",
+  "Edibility": 15,
+  "Price": 180,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_white",
+  ],
+  "GiftTastes":
+  {
+      "Love": ["Abigail", "Krobus", "Willy"],
+      "Dislike": ["Sam", "Haley", "Jas", "Vincent"],
+  },
+  "NameLocalization":
+  {
+    "default":"Spaghetti Squash",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"So named because the cooked pulp separates into strands.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}
