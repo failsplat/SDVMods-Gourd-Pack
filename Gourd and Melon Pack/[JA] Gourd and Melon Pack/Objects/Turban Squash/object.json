@@ -1,9 +1,9 @@
 {
-  "Name": "Acorn Squash",
-  "Description": "Appropriately enough, this squash has dense, slightly nutty flesh. The shape makes it excellent for fillings.",
+  "Name": "Turban Squash",
+  "Description": "Beautiful in color and ornamentation. Great for tasteful autumnal decoration, not great for actual taste.",
   "Category": "Vegetable",
-  "Edibility": 15,
-  "Price": 180,
+  "Edibility": 1,
+  "Price": 160,
   "IsColored": false,
   "EdibleIsDrink": false,
   "EdibleBuffs": {
@@ -20,12 +20,12 @@
   ],
   "GiftTastes":
   {
-      "Love": ["Abigail", "Krobus", "Willy"],
+      "Love": ["Leah"],
       "Dislike": ["Sam", "Haley", "Jas", "Vincent"],
   },
   "NameLocalization":
   {
-    "default":"Acorn Squash",
+    "default":"Turban Squash",
     //"es": "",
     //"ko": "",
     //"de": "",
@@ -40,7 +40,7 @@
   },
   "DescriptionLocalization":
   {
-    "default":"Appropriately enough, this squash has dense, slightly nutty flesh. The shape makes it excellent for fillings.",
+    "default":"Beautiful in color and ornamentation. Great for tasteful autumnal decoration, not great for actual taste.",
     //"es": "",
     //"ko": "",
     //"de": "",
