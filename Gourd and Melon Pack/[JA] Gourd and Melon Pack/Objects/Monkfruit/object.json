@@ -1,0 +1,56 @@
+{
+  "Name": "Monkfruit",
+  "Description": "A natural sweetener can be extracted from the pulp surrounding this fruit's large seeds.",
+  "Category": "Fruit",
+  "Edibility": 5,
+  "Price": 120,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_green",
+  ],
+  "GiftTastes":
+  {
+      "Love": ["Abigail", "Krobus", "Willy"],
+      "Dislike": ["Sam", "Haley", "Jas", "Vincent"],
+  },
+  "NameLocalization":
+  {
+    "default":"Monkfruit",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"A natural sweetener can be extracted from the pulp surrounding this fruit's large seeds.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}
