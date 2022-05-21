@@ -1,7 +1,7 @@
 {
-  "Name": "Yellow Squash",
-  "Description": "A bright-yellow squash. Reliable.",
-  "Category": "Vegetable",
+  "Name": "Figleaf Gourd",
+  "Description": "Also called a 'Cidra'. This mottled melon has sweet white flesh and nut-like edible seeds.",
+  "Category": "Fruit",
   "Edibility": 15,
   "Price": 180,
   "IsColored": false,
@@ -16,16 +16,16 @@
   "Recipe": null,
   "ContextTags":
   [
-    "color_yellow",
+    "color_white",
   ],
   "GiftTastes":
   {
-      "Love": ["Abigail", "Krobus", "Willy"],
-      "Dislike": ["Sam", "Haley", "Jas", "Vincent"],
+      "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+      "Dislike": ["Abigail", "Haley", "Jas", "Sam", "Vincent"],
   },
   "NameLocalization":
   {
-    "default":"Yellow Squash",
+    "default":"Figleaf Gourd",
     //"es": "",
     //"ko": "",
     //"de": "",
@@ -40,7 +40,7 @@
   },
   "DescriptionLocalization":
   {
-    "default":"A bright-yellow squash. Reliable.",
+    "default":"Also called a 'Cidra'. This mottled melon has sweet white flesh and nut-like edible seeds.",
     //"es": "",
     //"ko": "",
     //"de": "",
