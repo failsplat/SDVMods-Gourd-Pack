@@ -1,9 +1,9 @@
 {
-  "Name": "Kantola",
-  "Description": "Similar to a bitter melon, with a bristly surface.",
+  "Name": "Buffalo Gourd",
+  "Description": "A small gourd from the praries and deserts, also called a 'coyote gourd' or 'chilicote'. The young gourds are high in protein, while the mature ones have oil-rich seeds.",
   "Category": "Vegetable",
   "Edibility": 15,
-  "Price": 180,
+  "Price": 120,
   "IsColored": false,
   "EdibleIsDrink": false,
   "EdibleBuffs": {
@@ -20,15 +20,12 @@
   ],
   "GiftTastes":
   {
-    "Love": ["Harvey"],
-    "Like": ["Gus", "Penny", "Dwarf", "Krobus"],
-    "Neutral": [],
-    "Dislike": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius",  "Elliott", "Emily", "Evelyn", "Haley", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard", "Pam", "Shane"],
-    "Hate": ["Vincent", "Jas"],
+      "Love": ["Abigail", "Krobus", "Willy"],
+      "Dislike": ["Sam", "Haley", "Jas", "Vincent"],
   },
   "NameLocalization":
   {
-    "default":"Kantola",
+    "default":"Buffalo Gourd",
     //"es": "",
     //"ko": "",
     //"de": "",
@@ -43,7 +40,7 @@
   },
   "DescriptionLocalization":
   {
-    "default": "Similar to a bitter melon, with a bristly surface.",
+    "default":"A small gourd from the praries and deserts, also called a 'coyote gourd' or 'chilicote'. The young gourds are high in protein, while the mature ones have oil-rich seeds.",
     //"es": "",
     //"ko": "",
     //"de": "",
