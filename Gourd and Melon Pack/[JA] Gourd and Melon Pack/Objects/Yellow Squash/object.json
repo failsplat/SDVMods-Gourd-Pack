@@ -1,9 +1,9 @@
 {
-  "Name": "Monkfruit",
-  "Description": "A natural sweetener can be extracted from the pulp surrounding this fruit's large seeds.",
-  "Category": "Fruit",
-  "Edibility": 5,
-  "Price": 120,
+  "Name": "Yellow Squash",
+  "Description": "A bright-yellow squash. Reliable.",
+  "Category": "Vegetable",
+  "Edibility": 15,
+  "Price": 180,
   "IsColored": false,
   "EdibleIsDrink": false,
   "EdibleBuffs": {
@@ -16,7 +16,7 @@
   "Recipe": null,
   "ContextTags":
   [
-    "color_brown",
+    "color_yellow",
   ],
   "GiftTastes":
   {
@@ -25,7 +25,7 @@
   },
   "NameLocalization":
   {
-    "default":"Monkfruit",
+    "default":"Tromboncino",
     //"es": "",
     //"ko": "",
     //"de": "",
@@ -40,7 +40,7 @@
   },
   "DescriptionLocalization":
   {
-    "default":"A natural sweetener can be extracted from the pulp surrounding this fruit's large seeds.",
+    "default":"A bright-yellow squash. Reliable.",
     //"es": "",
     //"ko": "",
     //"de": "",
