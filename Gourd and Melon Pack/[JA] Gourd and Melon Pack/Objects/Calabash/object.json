@@ -1,8 +1,8 @@
 {
   "Name": "Calabash",
-  "Description": "A hollow, dried calabash, used as a natural bottle. Said to have magical effects on liquids stored inside it.",
-  "Category": "ArtisanGoods",
-  "Edibility": -300,
+  "Description": "When hollowed out and dried, these can used as a natural bottle. Said to have magical effects on liquids stored inside it.",
+  "Category": "Vegetable",
+  "Edibility": 15,
   "Price": 200,
   "IsColored": false,
   "EdibleIsDrink": false,
