@@ -1,12 +1,12 @@
 {
-    "Name": "Acorn Squash", 
-    "Product": "Acorn Squash", 
-    "SeedName": "Acorn Squash Seeds", 
-    "SeedDescription": "Plant these in fall. Takes 9 days to mature, and has a chance of yielding multiple gourds at harvest.", 
-    "Type": "Vegetable", 
+    "Name": "American Canteloupe", 
+    "Product": "American Canteloupe", 
+    "SeedName": "American Canteloupe Seeds", 
+    "SeedDescription": "Plant these summer. Takes 11 days to mature.", 
+    "Type": "Fruit", 
     "CropType": "Normal", 
-    "Seasons": ["fall"], 
-    "Phases": [2, 2, 2, 2, 1], 
+    "Seasons": ["spring", "summer"], 
+    "Phases": [2, 2, 2, 2, 3], 
     "RegrowthPhase": -1, 
     "HarvestWithScythe": false, 
     "TrellisCrop": false, 
@@ -14,11 +14,11 @@
     "Bonus": 
     {
         "MinimumPerHarvest": 1, 
-        "MaximumPerHarvest": 2, 
+        "MaximumPerHarvest": 1, 
         "MaxIncreasePerFarmLevel": 5, 
-        "ExtraChance": 0.12, 
+        "ExtraChance": 0, 
     },
-    "SeedPurchaseRequirements": ["y 2",],
+    "SeedPurchaseRequirements": null,
     "SeedPurchaseFrom": "Pierre", 
     "SeedPurchasePrice": 60, 
 
@@ -26,7 +26,7 @@
 
     "SeedNameLocalization":
     {
-        "default": "Acorn Squash Seeds",
+        "default": "American Canteloupe Seeds",
         //"es": "", 
         //"ko": "", 
         //"de": "", 
@@ -41,7 +41,7 @@
     },
     "SeedDescriptionLocalization":
     {
-        "default": "Plant these in fall. Takes 9 days to mature, and has a small chance of yielding multiple gourds at harvest.",
+        "default": "Plant these in summer. Takes 13 days to mature, and continues to produce after the first harvest.",
         //"es": "", 
         //"ko": "", 
         //"de": "", 
