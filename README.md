@@ -8,7 +8,7 @@
 ### New Items
 
 ### Future/Planned
-- American Canteloupe
+- American Cantaloupe
 - Honeydew
 - Argos Melon
 - Mirza Melon

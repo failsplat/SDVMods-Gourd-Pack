@@ -1,6 +1,6 @@
 {
-  "Name": "American Canteloupe",
-  "Description": "This canteloupe has net-like web of ridge on its skin, making it resemble stone or parched earth. Inside its rugged-looking rind is sweet, juicy orange flesh.",
+  "Name": "American Cantaloupe",
+  "Description": "This cantaloupe has net-like web of ridge on its skin, making it resemble stone or parched earth. Inside its rugged-looking rind is sweet, juicy orange flesh.",
   "Category": "Fruit",
   "Edibility": 15,
   "Price": 135,
@@ -26,7 +26,7 @@
   },
   "NameLocalization":
   {
-    "default":"American Canteloupe",
+    "default":"American Cantaloupe",
     //"es": "",
     //"ko": "",
     //"de": "",
@@ -41,7 +41,7 @@
   },
   "DescriptionLocalization":
   {
-    "default":"This canteloupe has net-like web of ridge on its skin, making it resemble stone or parched earth. Inside its rugged-looking rind is sweet, juicy orange flesh.",
+    "default":"This cantaloupe has net-like web of ridge on its skin, making it resemble stone or parched earth. Inside its rugged-looking rind is sweet, juicy orange flesh.",
     //"es": "",
     //"ko": "",
     //"de": "",
