@@ -1,7 +1,7 @@
 {
-    "Name": "American Cantaloupe", 
-    "Product": "American Cantaloupe", 
-    "SeedName": "American Cantaloupe Seeds", 
+    "Name": "Rockmelon", 
+    "Product": "Rockmelon", 
+    "SeedName": "Rockmelon Seeds", 
     "SeedDescription": "Plant these summer. Takes 11 days to mature.", 
     "Type": "Fruit", 
     "CropType": "Normal", 
@@ -26,7 +26,7 @@
 
     "SeedNameLocalization":
     {
-        "default": "American Cantaloupe Seeds",
+        "default": "Rockmelon Seeds",
         //"es": "", 
         //"ko": "", 
         //"de": "", 

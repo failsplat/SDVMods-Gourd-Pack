@@ -1,5 +1,5 @@
 {
-  "Name": "American Cantaloupe",
+  "Name": "Rockmelon",
   "Description": "This cantaloupe has net-like web of ridge on its skin, making it resemble stone or parched earth. Inside its rugged-looking rind is sweet, juicy orange flesh.",
   "Category": "Fruit",
   "Edibility": 15,
@@ -26,7 +26,7 @@
   },
   "NameLocalization":
   {
-    "default":"American Cantaloupe",
+    "default":"Rockmelon",
     //"es": "",
     //"ko": "",
     //"de": "",
