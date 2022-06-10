@@ -1,5 +1,5 @@
 # Gourd and Melon Pack (Mod for Stardew Valley)
- A content pack mod for Stardew Valley, containing a variety gourds and melons.
+ A content pack mod for Stardew Valley, containing a variety of gourds and melons.
 ## Required Mods
 - Json Assets
 - Multi Yield Crops
@@ -37,7 +37,10 @@
 - Caserta Zucchini
 - Yellow Squash
 - Fig-Leaf Melon
+
 - Serpent Gourd
+- Tsamma
+- Snap Melon
 ## Install
 1. [Install the latest version of SMAPI](https://smapi.io/).
 2. Download this mod folder.
