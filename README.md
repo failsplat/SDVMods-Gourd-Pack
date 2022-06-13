@@ -41,6 +41,9 @@
 - Serpent Gourd
 - Tsamma
 - Snap Melon
+- Lemon Cucumber
+- Gherkin
+- Red Cucumber
 ## Install
 1. [Install the latest version of SMAPI](https://smapi.io/).
 2. Download this mod folder.
