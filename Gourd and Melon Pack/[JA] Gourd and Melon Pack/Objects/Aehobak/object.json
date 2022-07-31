@@ -1,5 +1,5 @@
 {
-  "Name": "Caserta Zucchini",
+  "Name": "Aehobak",
   "Description": "An excellent summer squash, with creamy flesh and a thin skin.",
   "Category": "Vegetable",
   "Edibility": 15,
@@ -25,7 +25,7 @@
   },
   "NameLocalization":
   {
-    "default":"Caserta Zucchini",
+    "default":"Aehobak",
     //"es": "",
     //"ko": "",
     //"de": "",
