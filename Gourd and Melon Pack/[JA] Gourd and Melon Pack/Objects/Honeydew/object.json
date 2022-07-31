@@ -1,5 +1,5 @@
 {
-  "Name": "Honeydew Melon",
+  "Name": "Honeydew",
   "Description": "This melon has smooth pale-green skin and flesh, and a very light flavor.",
   "Category": "Fruit",
   "Edibility": 15,
@@ -26,7 +26,7 @@
   },
   "NameLocalization":
   {
-    "default":"Honeydew Melon",
+    "default":"Honeydew",
     //"es": "",
     //"ko": "",
     //"de": "",
