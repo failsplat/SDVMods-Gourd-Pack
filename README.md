@@ -37,9 +37,9 @@
 - Caserta Zucchini
 - Yellow Squash
 - Fig-Leaf Melon
+- Tsamma
 
 - Serpent Gourd
-- Tsamma
 - Snap Melon
 - Lemon Cucumber
 - Gherkin

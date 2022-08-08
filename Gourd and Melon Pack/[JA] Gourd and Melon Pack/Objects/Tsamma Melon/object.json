@@ -1,0 +1,49 @@
+{
+  "Name": "Tsamma Melon",
+  "Description": "A hardy relative of the watermelon that grows well even in harsh deserts. High in pectin, so good for making into jam.",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 80,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": null,
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_green",
+  ],
+  "GiftTastes":
+  {
+    "Love": [ "Caroline", "Jodi" ],
+  },
+  "NameLocalization":
+  {
+    "default":"Tsamma Melon",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"A hardy relative of the watermelon that grows well even in harsh deserts. High in pectin, so good for making into jam.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}
