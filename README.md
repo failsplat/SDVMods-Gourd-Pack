@@ -30,15 +30,14 @@
 - Apple Gourd/Tinda
 - Ivy Gourd
 - Kantola
-- Coyote Gourd
 - Gac Fruit
 - Monkfruit
 - Tromboncino
-- Caserta Zucchini
+- Aehobak
 - Yellow Squash
 - Fig-Leaf Melon
 - Tsamma
-
+## WIP:
 - Serpent Gourd
 - Snap Melon
 - Lemon Cucumber
