@@ -6,38 +6,36 @@
 ### Optional Mods
 ## Contents
 ### New Items
-
-### Future/Planned
-- Rockmelon
-- Honeydew
-- Argos Melon
-- Mirza Melon
-- Kiwano
-- Yellow Watermelon
-- Bitter Melon
-- Snake Cucumber
-- Calabash
-- Kajari Melon
-- Kabocha Squash
-- Spaghetti Squash
 - Acorn Squash
-- Turban Squash
-- Buttercup Squash
-- Squash Blossoms (Harvested as a side-product of other gourd items)
-- Silk Gourd/Loofah
-- Pattypan Squash
-- Hami Melon
-- Apple Gourd/Tinda
-- Ivy Gourd
-- Kantola
-- Gac Fruit
-- Monkfruit
-- Tromboncino
 - Aehobak
-- Yellow Squash
+- Apple Gourd/Tinda
+- Argos Melon
+- Bitter Melon
+- Buttercup Squash
+- Calabash
 - Fig-Leaf Melon
-- Tsamma
+- Gac Fruit
+- Hami Melon
+- Honeydew
+- Ivy Gourd
+- Kabocha Squash
+- Kajari Melon
+- Kantola
+- Kiwano
+- Mirza Melon
+- Monkfruit
+- Pattypan Squash
+- Rockmelon
+- Silk Gourd/Loofah
+- Snake Cucumber
 - Snap Melon
+- Spaghetti Squash
+- Squash Blossoms (Harvested as a side-product of other gourd items)
+- Tromboncino
+- Tsamma
+- Turban Squash
+- Yellow Squash
+- Yellow Watermelon
 ## WIP:
 - Serpent Gourd
 - Lemon Cucumber
