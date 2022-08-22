@@ -1,0 +1,54 @@
+{
+  "Name": "Lemon Cucumber",
+  "Description": "A round cucumber vaguely the same size and color of a lemon. Not sour at all.",
+  "Category": "Vegetable",
+  "Edibility": 15,
+  "Price": 180,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_yellow",
+  ],
+  "GiftTastes":
+  {
+  },
+  "NameLocalization":
+  {
+    "default":"Lemon Cucumber",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"A round cucumber vaguely the same size and color of a lemon. Not sour at all.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}

@@ -22,6 +22,7 @@
 - Kajari Melon
 - Kantola
 - Kiwano
+- Lemon Cucumber
 - Mirza Melon
 - Monkfruit
 - Pattypan Squash
@@ -38,7 +39,6 @@
 - Yellow Watermelon
 ## WIP:
 - Serpent Gourd
-- Lemon Cucumber
 - Gherkin
 - Red Cucumber
 ## Install
