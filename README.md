@@ -37,9 +37,9 @@
 - Yellow Squash
 - Fig-Leaf Melon
 - Tsamma
+- Snap Melon
 ## WIP:
 - Serpent Gourd
-- Snap Melon
 - Lemon Cucumber
 - Gherkin
 - Red Cucumber

@@ -1,0 +1,59 @@
+{
+  "Name": "Snap Melon",
+  "Description": "Splits open when fully ripe. Can also be eaten as a vegetable when unripe.",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 180,
+  "IsColored": false,
+  "EdibleIsDrink": false,
+  "EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+    "Duration": 360,
+  },
+  "Recipe": null,
+  "ContextTags":
+  [
+    "color_yellow",
+  ],
+  "GiftTastes":
+  {
+    "Love": ["Leo"],
+    "Like": ["Demetrius", "Elliot", "Harvey", "Jodi", "Kent", "Leah", "Linus", "Pam", "Robin", "Sandy", "Shane"],
+    "Neutral": [],
+    "Dislike": ["Abigail", "Haley", "Jas", "Vincent"],
+    "Hate": [],
+  },
+  "NameLocalization":
+  {
+    "default":"Snap Melon",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    //"it": "",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+  "DescriptionLocalization":
+  {
+    "default":"Splits open when fully ripe. Can also be eaten as a vegetable when unripe.",
+    //"es": "",
+    //"ko": "",
+    //"de": "",
+    //"fr": "",
+    //"hu": "",
+    // "it":"",
+    //"ja": "",
+    //"pt": "",
+    //"ru": "",
+    //"tr": "",
+    //"zh": "",
+  },
+}
