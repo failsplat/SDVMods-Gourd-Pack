@@ -15,6 +15,7 @@
 - Calabash
 - Fig-Leaf Melon
 - Gac Fruit
+- Gherkin
 - Hami Melon
 - Honeydew
 - Ivy Gourd
@@ -39,7 +40,6 @@
 - Yellow Watermelon
 ## WIP:
 - Serpent Gourd
-- Gherkin
 - Red Cucumber
 ## Install
 1. [Install the latest version of SMAPI](https://smapi.io/).
