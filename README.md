@@ -27,6 +27,7 @@
 - Mirza Melon
 - Monkfruit
 - Pattypan Squash
+- Red Cucumber
 - Rockmelon
 - Silk Gourd/Loofah
 - Snake Cucumber
@@ -40,7 +41,6 @@
 - Yellow Watermelon
 ## WIP:
 - Serpent Gourd
-- Red Cucumber
 ## Install
 1. [Install the latest version of SMAPI](https://smapi.io/).
 2. Download this mod folder.
