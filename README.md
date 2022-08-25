@@ -41,6 +41,14 @@
 - Yellow Watermelon
 ## WIP:
 - Serpent Gourd
+- Crenshaw Melon
+- Gaya Melon
+- Charentais Melon
+- Carosello
+- Barattiere
+- Galia Melon
+- Crane Melon
+- Montreal Melon
 ## Install
 1. [Install the latest version of SMAPI](https://smapi.io/).
 2. Download this mod folder.
